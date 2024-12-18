@@ -59,6 +59,8 @@ namespace HelloWorldCS
             if (name == "张三")
             {
                 name = "法外狂徒·张三";
+                Console.WriteLine();
+                Console.WriteLine("原来是小瘪三：" + name);
             }
             return name;
         }
