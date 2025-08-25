@@ -1,9 +1,21 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldCS", "HelloWorldCS\HelloWorldCS.csproj", "{E022D295-B029-4DB7-807A-F1081A72FFD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1_第一个应用程序", "Lesson1_第一个应用程序\Lesson1_第一个应用程序.csproj", "{0720B74E-9053-4919-A0AD-9E745A00BA77}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{05301BEA-44FE-4350-9894-394401B4EDA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1_练习", "Lesson1_练习\Lesson1_练习.csproj", "{0422C6DF-A0D5-480D-A3F8-D8C8A7F6BF2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2_变量", "Lesson2_变量\Lesson2_变量.csproj", "{371A6F60-DD07-4ED4-8859-2EDA09EDADE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2_练习", "Lesson2_练习\Lesson2_练习.csproj", "{01CCDD7D-E9BD-42C5-9703-C37C667FE47E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3_变量本质", "Lesson3_变量本质\Lesson3_变量本质.csproj", "{556F06E7-35D3-4EA3-820D-49BA08180688}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +27,26 @@ Global
 		{E022D295-B029-4DB7-807A-F1081A72FFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E022D295-B029-4DB7-807A-F1081A72FFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E022D295-B029-4DB7-807A-F1081A72FFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0720B74E-9053-4919-A0AD-9E745A00BA77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0720B74E-9053-4919-A0AD-9E745A00BA77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0720B74E-9053-4919-A0AD-9E745A00BA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0720B74E-9053-4919-A0AD-9E745A00BA77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0422C6DF-A0D5-480D-A3F8-D8C8A7F6BF2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0422C6DF-A0D5-480D-A3F8-D8C8A7F6BF2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0422C6DF-A0D5-480D-A3F8-D8C8A7F6BF2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0422C6DF-A0D5-480D-A3F8-D8C8A7F6BF2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{371A6F60-DD07-4ED4-8859-2EDA09EDADE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{371A6F60-DD07-4ED4-8859-2EDA09EDADE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{371A6F60-DD07-4ED4-8859-2EDA09EDADE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{371A6F60-DD07-4ED4-8859-2EDA09EDADE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01CCDD7D-E9BD-42C5-9703-C37C667FE47E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01CCDD7D-E9BD-42C5-9703-C37C667FE47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01CCDD7D-E9BD-42C5-9703-C37C667FE47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01CCDD7D-E9BD-42C5-9703-C37C667FE47E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{556F06E7-35D3-4EA3-820D-49BA08180688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556F06E7-35D3-4EA3-820D-49BA08180688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556F06E7-35D3-4EA3-820D-49BA08180688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556F06E7-35D3-4EA3-820D-49BA08180688}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

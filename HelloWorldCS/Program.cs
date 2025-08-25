@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml.Linq;
 
 namespace HelloWorldCS
 {
@@ -11,6 +6,7 @@ namespace HelloWorldCS
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
             string[] array = new string[0];
 
             for (int i = 0; i < 3; i++)
